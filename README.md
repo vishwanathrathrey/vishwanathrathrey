@@ -17,7 +17,6 @@ I’m particularly interested in systems that combine **engineering scale with i
 Some areas I enjoy working on:
 
 • **Backend Platforms** – designing APIs, microservices, and event-driven systems  
-• **Cloud-Native Applications** – serverless and distributed systems  
 • **Developer-Focused Tools** – systems that simplify workflows  
 • **AI-Powered Applications** – integrating ML/AI into real products  
 • **Data Systems** – pipelines, analytics, and data-driven features  
