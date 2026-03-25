@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Vishwanath
 
-<!--
-**vishwanathrathrey/vishwanathrathrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 🌐 Full-Stack Developer | 🤖 ML/AI Enthusiast  
 
-Here are some ideas to get you started:
+I'm a software engineer with 3+ years of experience building scalable web applications and cloud-based systems. I enjoy designing clean architectures, building APIs, and creating intuitive user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **Machine Learning, Generative AI, and Data Engineering** while continuing to build full-stack applications.
+
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer with experience in **backend, frontend, and cloud development**
+- 🧠 Currently pursuing **MSc in Machine Learning & Artificial Intelligence**
+- ☁️ Interested in **cloud-native systems, distributed architecture, and AI applications**
+- 🛠 Passionate about writing **clean, maintainable, and scalable code**
+- 📚 Always learning new technologies and improving system design skills
+
+---
